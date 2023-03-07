@@ -1,0 +1,7 @@
+#ignore all emacs ~backup files*~
+#ignore all emacs ~autosave files
+#*
+#ignore all emacs~lock files
+*#
+#ignore all~compiled files
+*.ecl
